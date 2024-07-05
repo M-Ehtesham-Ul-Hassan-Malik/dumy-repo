@@ -1,0 +1,10 @@
+.container {
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    text-align: center;
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+}
